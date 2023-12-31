@@ -2,7 +2,7 @@
 This project is built for the completion of the OOP course.
 
 ## Tech & Tools
-
+-   Design: Figma
 -   Language: JAVA SE.
 -   Framework: Swing
 -   Database: MySQL
