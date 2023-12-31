@@ -1,6 +1,7 @@
 # Burger Shop Manager
+This project is built for the completion of the OOP course.
 
-## Software
+## Tech & Tools
 
 -   Language: JAVA SE.
 -   Framework: Swing
